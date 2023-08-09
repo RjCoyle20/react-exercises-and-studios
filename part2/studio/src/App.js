@@ -18,8 +18,6 @@ export default function App() {
       <Button saveButton={false} />
       <AuthorInfo />
       <IngredientList />
-      <RecipeImage/>
-      <RecipeName />
     </>
   );
 }
