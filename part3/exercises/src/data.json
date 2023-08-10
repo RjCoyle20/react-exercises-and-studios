@@ -1,0 +1,32 @@
+[
+{
+    "name": "Fresh Cut Grass",
+    "playedby": "Sam Reigel",
+    "speciesclass": "Aeormaton/Cleric",
+    "image": "https://static.wikia.nocookie.net/criticalrole/images/0/03/FCG2_Headshot.png/revision/latest?cb=20230421200334"
+},
+{
+    "name": "Fearne Callaway",
+    "playedby": "Ashley Johnson",
+    "speciesclass": "Faun/Druid",
+    "image": "https://static.wikia.nocookie.net/criticalrole/images/c/c4/FearneHeadshot.jpg/revision/latest?cb=20211022231301"
+},
+{
+    "name": "Orym",
+    "playedby": "Liam O'Brien",
+    "speciesclass": "Stout Halfling/Fighter",
+    "image": "https://static.wikia.nocookie.net/criticalrole/images/2/2f/OrymHeadshot.jpg/revision/latest?cb=20211022231021"
+},
+{
+    "name": "Imogen Temult",
+    "playedby": "Laura Bailey",
+    "speciesclass": "Human/Sorcerer",
+    "image": "https://static.wikia.nocookie.net/criticalrole/images/3/3a/Imogen2_Headshot.png/revision/latest?cb=20230421195355"
+},
+{
+    "name": "Laudna",
+    "playedby": "Marisha Ray",
+    "speciesclass": "Human(Hollow One)/Sorcerer-Warlock",
+    "image": "https://static.wikia.nocookie.net/criticalrole/images/7/78/Laudna_2023_headshot_-_Hannah_Friederichs.jpg/revision/latest?cb=20230721125119"
+}
+]
