@@ -1,7 +1,7 @@
 const RecipeAuthor = () => {
-   let authorLink = "";
-   let authorPhoto = "";
-   let authorName = "";
+   let authorLink = "https://www.halfbakedharvest.com/sticky-ginger-soy-chicken/";
+   let authorPhoto = "https://secure.gravatar.com/avatar/49ee4a23a1d5dffb1944da32800bb254?s=48&d=mm&r=pg";
+   let authorName = "Tieghan";
 
    return (
       <div>
@@ -15,7 +15,12 @@ const RecipeAuthor = () => {
 }
 
 const RecipeIngredients = () => {
-   const ingredients = [];
+   const ingredients = ["2 pounds chicken breasts or thighs, cut into 2 inch cubes", 
+   "3 cups broccoli florets",
+   "1/2 cup honey",
+   "1/3 cup tamari or soy sauce",
+   "jasmine rice, for serving"
+];
    return(
       <div>
          <h3>Recipe Ingredients</h3>
@@ -34,8 +39,8 @@ const RecipeDescription = () => {
    return (
       <div> 
          <div>
-            <h1></h1>
-            <p></p>
+            <h1>Sheet Pan Sticky Ginger Soy Chicken and Broccoli</h1>
+            <p>This simple Sheet Pan Sticky Ginger Soy Chicken and Broccoli is about to become your new go-to meal. Easy homemade, extra saucy chicken, tossed in a gingery, sweet, spicy, and extra sticky honey soy sauce. Serve with steamed rice and broccoli – cooked right alongside the chicken – for the easiest sheet pan dinner. </p>
          </div>
          <div className="recipePhotoBlock">
             <RecipeIngredients />
@@ -47,7 +52,7 @@ const RecipeDescription = () => {
 
 const RecipePhoto = () => {
    return (
-      <img src="" alt="" className="imageUpdates"/>
+      <img src="https://www.halfbakedharvest.com/wp-content/uploads/2022/12/Sheet-Pan-Sticky-Ginger-Soy-Chicken-and-Broccoli-7-1024x1536.jpg" alt="Sticky Ginger Soy Chicken" className="imageUpdates"/>
    );
 }
 
